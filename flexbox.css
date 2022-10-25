@@ -1,8 +1,9 @@
 .tarjeta {
     background-color: aqua;
     size: 1px;
-    height: 10px;
-    width: 100px;
+    height: 950px;
+    width: 1px;
     
 }
-.container {flex-direction: column;}
+.container {flex}
+
